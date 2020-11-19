@@ -10,6 +10,27 @@ This app will be a marketplace to meet between people who is seeking a logistic 
 
 Example, you want to send a document to your client. You can simply post a job to the app and it will make it visible to logistic provider to take on the job by accepting the job request.
 
+## Help and Installation Guide
+*System Requirement*: Ensure that **Python3** is installed all dependecies on your machine.
+* Clone the repository to your local machine
+    ```
+    git clone https://github.com/hholly3003/my_postman.git
+    ```
+* Create virtual environment and activate
+    ``` 
+    python3 -m venv venv
+    source venv/bin/activate
+    ```
+* Install Dependencies
+    ``` 
+    pip install -r requirements.txt
+    ```
+* Run
+    ```
+    Navigate to directory of the main.py file that should be available under *src* folder.
+    python main.py
+    ```
+
 ## Wireframes
 ***
 #### Landing page
